@@ -1,11 +1,13 @@
 
     p {
       font-family: "Times New Roman";
+      margin: 20px;
+      padding: 5px;
     }
     h1 {
         color:navy;
       }
-      
+
       .title {
         color: cyan;
         font-weight: bold;
@@ -19,5 +21,16 @@
       }
       img {
        width: 50%;
-       
+      }
+
+      .image{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+      }
+
+      #fun {
+        color: red;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 20px;
       }
